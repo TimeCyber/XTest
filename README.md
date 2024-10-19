@@ -29,6 +29,9 @@ XTest 客户端目前只支持 Mac 和 Windows 系统，如果需要在 Linux、
 
    <img width="500" alt="image" src="https://github.com/user-attachments/assets/652c0df7-c055-4f7c-8c6c-943c50f2716c">
 
+   <img width="500" alt="image" src="https://github.com/user-attachments/assets/d4454a4a-44d6-4a44-9d62-6802859be581">
+
+
    > 一些公司的软件可能会把 XTest.exe 以及里面让系统代理设置立即生效的 refresh.exe 文件误认为问题软件，直接点击允许放过即可，如果还有问题可以跟公司的安全同事沟通下给软件加白
 
 #### Mac
