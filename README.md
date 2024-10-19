@@ -75,7 +75,7 @@ Mac 有 Intel 和 M1 两种芯片类型，不同类型芯片需要下载不同�
 
 ## 顶部菜单
 
-<img width="390" alt="image" src="https://github.com/avwo/whistle/assets/11450939/6de659d6-9f81-4ff2-89f1-504c785b55dd">
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/606ca2fd-4d3b-469f-824d-1806558885fb">
 
 #### Proxy Settings
 
