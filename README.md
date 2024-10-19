@@ -25,7 +25,7 @@ XTest 客户端目前只支持 Mac 和 Windows 系统，如果需要在 Linux、
 
 2. 打开安装包可能会弹出以下对话框，点击 `是` 、`确定`、`允许访问` 按钮即可
 
-   <img width="360" alt="image" src="![image](https://github.com/user-attachments/assets/718e2dd2-df33-4567-9078-d9d252dff37c)">
+   <img width="360" alt="image" src="https://github.com/user-attachments/assets/718e2dd2-df33-4567-9078-d9d252dff37c">
 
    <img width="500" alt="image" src="https://github.com/user-attachments/assets/57afaf41-3d5c-4d74-b0bf-415d4e2c1f27">
 
