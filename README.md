@@ -56,7 +56,8 @@ Mac 有 Intel 和 M1 两种芯片类型，不同类型芯片需要下载不同�
 
 > 打开客户端会自动设置系统代理，第一次可能需要用户输入开机密码
 
-<img width="1080" alt="image" src="https://github.com/avwo/whistle/assets/11450939/d641af14-f933-4b8a-af45-8c69c648b799">
+<img width="1080" alt="image" src="https://github.com/user-attachments/assets/be755eaf-3289-4f78-a003-96d1a067ee42">
+
 
 > 一些公司的软件可能会把客户端里面引用的设置代理的 XTest 文件误认为问题软件，直接点击允许放过即可，如果还有问题可以跟公司的安全同事沟通下给软件加白
 
