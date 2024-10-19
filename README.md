@@ -27,7 +27,7 @@ XTest 客户端目前只支持 Mac 和 Windows 系统，如果需要在 Linux、
 
    <img width="360" alt="image" src="https://github.com/user-attachments/assets/718e2dd2-df33-4567-9078-d9d252dff37c">
 
-   <img width="500" alt="image" src="https://github.com/user-attachments/assets/57afaf41-3d5c-4d74-b0bf-415d4e2c1f27">
+   <img width="500" alt="image" src="https://github.com/user-attachments/assets/652c0df7-c055-4f7c-8c6c-943c50f2716c">
 
    <img width="500" alt="image" src="https://github.com/user-attachments/assets/8ca1f00f-2a8a-49f2-8d14-2118fe471137">
 
