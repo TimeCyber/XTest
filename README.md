@@ -79,7 +79,7 @@ Mac 有 Intel 和 M1 两种芯片类型，不同类型芯片需要下载不同�
 
 #### Proxy Settings
 
-<img width="470" alt="image" src="https://github.com/avwo/whistle/assets/11450939/c7a54333-2daf-4231-9cd2-4c75ffa49be0">
+<img width="470" alt="image" src="https://github.com/user-attachments/assets/6706d4e8-a57f-49a0-adb1-46246b566fe1">
 
 1. `Proxy Port`：必填项，代理端口，默认为 `8888`
 2. `Socks Port`：新增 Socksv5 代理端口
