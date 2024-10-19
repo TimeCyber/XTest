@@ -1,4 +1,4 @@
-# XTest 客户端
+![image](https://github.com/user-attachments/assets/aff7a355-5b2a-40d3-a930-74b869f2e703)# XTest 客户端
 XTest 客户端是基于 [XTest (命令行版本)](https://github.com/avwo/whistle) + [Electron](https://github.com/electron/electron) 开发的支持 Mac 和 Windows 的客户端，它不仅保留了命令行版本的除命令行以外的所有功能，且新增以下功能代替复杂的命令行操作，让用户使用门槛更低、操作更简单：
 
 1. 无需安装 Node，客户端下载安装后即可使用
@@ -25,7 +25,7 @@ XTest 客户端目前只支持 Mac 和 Windows 系统，如果需要在 Linux、
 
 2. 打开安装包可能会弹出以下对话框，点击 `是` 、`确定`、`允许访问` 按钮即可
 
-   <img width="360" alt="image" src="https://github.com/avwo/whistle/assets/11450939/1b496557-6d3e-4966-a8a4-bd16ed643e28">
+   <img width="360" alt="image" src="![image](https://github.com/user-attachments/assets/718e2dd2-df33-4567-9078-d9d252dff37c)">
 
    <img width="500" alt="image" src="https://github.com/user-attachments/assets/57afaf41-3d5c-4d74-b0bf-415d4e2c1f27">
 
